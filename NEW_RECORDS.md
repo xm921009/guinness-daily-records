@@ -2,31 +2,13 @@
 
 - 数据日期（北京时间）：2026-11-19
 - 数据源：吉尼斯世界纪录官网 sitemap（官方站点公开数据）
-- 状态：**首次运行 · 建立基线**，今日不判定「新增」
+- 今日新增：**0** 条；今日更新：**0** 条
 - 纪录库累计：**10754** 条
 
-## 基线建立
+## 🆕 今日新增纪录
 
-首次运行已收录当前全部 10754 条纪录作为基线。
-下面展示官网最近更新的 20 条（按 lastmod）：
+- 今日官网 sitemap 未发现新 URL
 
-- [age is not the problem the elite spanish mountaineer still setting career highs at 86](https://www.guinnessworldrecords.com/news/2026/11/age-is-not-the-problem-the-elite-spanish-mountaineer-still-setting-career-highs-at-86)  `<sub>news · lastmod 2026-11-18</sub>`
-- [all the action from gwr day 2026 epic car stunts bicycle backflips and more](https://www.guinnessworldrecords.com/news/2026/11/all-the-action-from-gwr-day-2026-epic-car-stunts-bicycle-backflips-and-more)  `<sub>news · lastmod 2026-11-18</sub>`
-- [9 year old brazilian girl bravely races down 3 storey skateboard ramp to take record](https://www.guinnessworldrecords.com/news/2026/11/9-year-old-brazilian-girl-bravely-races-down-3-storey-skateboard-ramp-to-take-record)  `<sub>news · lastmod 2026-11-18</sub>`
-- [world gravy wrestling champion joel hicks spills secrets of his sticky success](https://www.guinnessworldrecords.com/news/2026/11/world-gravy-wrestling-champion-joel-hicks-spills-secrets-of-his-sticky-success)  `<sub>news · lastmod 2026-11-17</sub>`
-- [23 year old red panda in japan becomes the worlds oldest](https://www.guinnessworldrecords.com/news/2026/11/23-year-old-red-panda-in-japan-becomes-the-worlds-oldest)  `<sub>news · lastmod 2026-11-17</sub>`
-- [pikachu fan with record breaking collection explains what pokemon character means to her](https://www.guinnessworldrecords.com/news/2026/11/pikachu-fan-with-record-breaking-collection-explains-what-pokemon-character-means-to-her)  `<sub>news · lastmod 2026-11-17</sub>`
-- [red bull launches two athletes out of a human catapult and into record books at 112 mph](https://www.guinnessworldrecords.com/news/2026/11/red-bull-launches-two-athletes-out-of-a-human-catapult-and-into-record-books-at-112-mph)  `<sub>news · lastmod 2026-11-16</sub>`
-- [serial record breaker alex goulding shares how getting into fitness saved his life](https://www.guinnessworldrecords.com/news/2026/11/serial-record-breaker-alex-goulding-shares-how-getting-into-fitness-saved-his-life)  `<sub>news · lastmod 2026-11-16</sub>`
-- [most tattooed twins promised mum theyd only get one tattoo each before getting hooked](https://www.guinnessworldrecords.com/news/2026/11/most-tattooed-twins-promised-mum-theyd-only-get-one-tattoo-each-before-getting-hooked)  `<sub>news · lastmod 2026-11-16</sub>`
-- [youtube stars pongfinity join brighton table tennis club for a day of record breaking](https://www.guinnessworldrecords.com/news/2026/10/youtube-stars-pongfinity-join-brighton-table-tennis-club-for-a-day-of-record-breaking)  `<sub>news · lastmod 2026-11-16</sub>`
-- [prince bira of siam the crystal palace and the first televised motor race](https://www.guinnessworldrecords.com/news/2026/11/prince-bira-of-siam-the-crystal-palace-and-the-first-televised-motor-race)  `<sub>news · lastmod 2026-11-16</sub>`
-- [rockys record breaking legacy as ultimate underdog story celebrates 50th anniversary](https://www.guinnessworldrecords.com/news/2026/11/rockys-record-breaking-legacy-as-ultimate-underdog-story-celebrates-50th-anniversary)  `<sub>news · lastmod 2026-11-13</sub>`
-- [woman inks over 80 mickey mouse tattoos after moving to usa he puts a smile on my face](https://www.guinnessworldrecords.com/news/2026/11/woman-inks-over-80-mickey-mouse-tattoos-after-moving-to-usa-he-puts-a-smile-on-my-face)  `<sub>news · lastmod 2026-11-13</sub>`
-- [record breaking american family celebrates fifth generation born on the same day](https://www.guinnessworldrecords.com/news/2026/11/record-breaking-american-family-celebrates-fifth-generation-born-on-the-same-day)  `<sub>news · lastmod 2026-11-12</sub>`
-- [tattoo artist obsessed with prince since her teens inks record number of tributes on skin](https://www.guinnessworldrecords.com/news/2026/11/tattoo-artist-obsessed-with-prince-since-her-teens-inks-record-number-of-tributes-on-skin)  `<sub>news · lastmod 2026-11-12</sub>`
-- [chelsea quartet make the grade in the gwr football edition 2027](https://www.guinnessworldrecords.com/news/2026/11/chelsea-quartet-make-the-grade-in-the-gwr-football-edition-2027)  `<sub>news · lastmod 2026-11-11</sub>`
-- [japanese youngster breaks dizzying aerial hoop record after being inspired by her sister](https://www.guinnessworldrecords.com/news/2026/11/japanese-youngster-breaks-dizzying-aerial-hoop-record-after-being-inspired-by-her-sister)  `<sub>news · lastmod 2026-11-11</sub>`
-- [artist builds boat out of a giant mushroom takes it for a record breaking 25 mile ride](https://www.guinnessworldrecords.com/news/2026/11/artist-builds-boat-out-of-a-giant-mushroom-takes-it-for-a-record-breaking-25-mile-ride)  `<sub>news · lastmod 2026-11-10</sub>`
-- [heart surgeon reclaims collection record after gathering thousands of heart shaped things](https://www.guinnessworldrecords.com/news/2026/11/heart-surgeon-reclaims-collection-record-after-gathering-thousands-of-heart-shaped-things)  `<sub>news · lastmod 2026-11-10</sub>`
-- [fashionistas drummers and candy crushers octobers people power roundup](https://www.guinnessworldrecords.com/news/2026/11/fashionistas-drummers-and-candy-crushers-octobers-people-power-roundup)  `<sub>news · lastmod 2026-11-10</sub>`
+## 🔄 今日更新纪录
+
+- 今日无 lastmod 变新的条目
