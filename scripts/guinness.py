@@ -194,17 +194,21 @@ def md_escape(s):
     return s.replace("|", "\\|").replace("\n", " ").strip()
 
 
+def now_str():
+    return datetime.now(BJ).strftime("%Y-%m-%d %H:%M:%S")
+
+
 # ---------------- 产物生成 ----------------
 def build_report(records, seen, is_baseline, today_bj, new_items, updated_items):
     lines = []
-    lines.append("# 吉尼斯世界纪录 · 每日新增")
+    lines.append("# 吉尼斯世界纪录 · 新增动态")
     lines.append("")
-    lines.append("- 数据日期（北京时间）：%s" % today_bj)
+    lines.append("- 检测时间（北京时间）：%s" % now_str())
     lines.append("- 数据源：吉尼斯世界纪录官网 sitemap（官方站点公开数据）")
     if is_baseline:
-        lines.append("- 状态：**首次运行 · 建立基线**，今日不判定「新增」")
+        lines.append("- 状态：**首次运行 · 建立基线**，暂不判定「新增」")
     else:
-        lines.append("- 今日新增：**%d** 条；今日更新：**%d** 条" % (len(new_items), len(updated_items)))
+        lines.append("- 本轮新增：**%d** 条；本轮更新：**%d** 条" % (len(new_items), len(updated_items)))
     lines.append("- 纪录库累计：**%d** 条" % len(records))
     lines.append("")
 
@@ -227,19 +231,19 @@ def build_report(records, seen, is_baseline, today_bj, new_items, updated_items)
         recent = sorted(records.values(), key=lambda x: x["lastmod"], reverse=True)[:20]
         lines += fmt(recent)
     else:
-        lines.append("## 🆕 今日新增纪录")
+        lines.append("## 🆕 本轮新增纪录")
         lines.append("")
         if new_items:
             lines += fmt(new_items)
         else:
-            lines.append("- 今日官网 sitemap 未发现新 URL")
+            lines.append("- 本轮官网 sitemap 未发现新 URL")
         lines.append("")
-        lines.append("## 🔄 今日更新纪录")
+        lines.append("## 🔄 本轮更新纪录")
         lines.append("")
         if updated_items:
             lines += fmt(updated_items)
         else:
-            lines.append("- 今日无 lastmod 变新的条目")
+            lines.append("- 本轮无 lastmod 变新的条目")
     lines.append("")
     return "\n".join(lines)
 
@@ -252,9 +256,9 @@ def update_readme_banner(report_text, today_bj, total, is_baseline, new_n, upd_n
     if start not in txt or end not in txt:
         raise RuntimeError("README.md 缺少 LATEST marker")
     if is_baseline:
-        head = "## 最新状态（%s）\n\n- 首次运行已建立基线：收录 %d 条纪录。\n- 从明天起每日对比官网 sitemap，自动列出新增/更新纪录。" % (today_bj, total)
+        head = "## 最新状态（%s）\n\n- 首次运行已建立基线：收录 %d 条纪录。\n- 此后每 10 分钟对比官网 sitemap，自动列出新增/更新纪录。" % (today_bj, total)
     else:
-        head = "## 最新状态（%s）\n\n- 今日新增 **%d** 条 / 更新 **%d** 条，纪录库累计 **%d** 条。\n- 详见下方「最新一期」与 [RECORDS.md](RECORDS.md)。" % (today_bj, new_n, upd_n, total)
+        head = "## 最新状态（%s）\n\n- 本轮新增 **%d** 条 / 更新 **%d** 条，纪录库累计 **%d** 条。\n- 详见 [NEW_RECORDS.md](NEW_RECORDS.md) 与 [RECORDS.md](RECORDS.md)。" % (today_bj, new_n, upd_n, total)
     block = start + "\n" + head + "\n" + end
     new_txt = re.sub(re.escape(start) + r".*?" + re.escape(end), block, txt, flags=re.S)
     with open(p, "w", encoding="utf-8") as f:
@@ -322,36 +326,42 @@ def main():
         new_items.sort(key=lambda x: x["lastmod"], reverse=True)
         updated_items.sort(key=lambda x: x["lastmod"], reverse=True)
 
-    # 保存 seen（git 持久化，作为下次 diff 基准）
-    save_json("seen_url.json", seen)
-    save_json("all_records.json", {
-        "generated_at_bj": now.strftime("%Y-%m-%d %H:%M:%S"),
-        "total": len(records),
-        "records": sorted(records.values(), key=lambda x: x["lastmod"], reverse=True),
-    })
-    save_json("latest.json", {
-        "date_bj": today,
-        "is_baseline": is_baseline,
-        "total": len(records),
-        "new_count": len(new_items),
-        "updated_count": len(updated_items),
-        "new_records": new_items,
-        "updated_records": updated_items,
-    })
+    # 高频运行（每10分钟）：仅当数据真正变化时才写产物，避免每轮空提交。
+    # 无变化时产物字节保持完全一致 → git diff --staged --quiet 命中 → workflow 跳过 commit。
+    changed = is_baseline or bool(new_items) or bool(updated_items)
 
     report = build_report(records, seen, is_baseline, today, new_items, updated_items)
-    with open(os.path.join(ROOT, "NEW_RECORDS.md"), "w", encoding="utf-8") as f:
-        f.write(report)
-    build_records_md(records)
-    update_readme_banner(report, today, len(records), is_baseline, len(new_items), len(updated_items))
-    append_history(today, report)
-    write_step_summary(report)
+    write_step_summary(report)  # Actions 运行页每轮都展示，不进 git
+
+    if changed:
+        save_json("seen_url.json", seen)
+        save_json("all_records.json", {
+            "generated_at_bj": now.strftime("%Y-%m-%d %H:%M:%S"),
+            "total": len(records),
+            "records": sorted(records.values(), key=lambda x: x["lastmod"], reverse=True),
+        })
+        save_json("latest.json", {
+            "date_bj": today,
+            "is_baseline": is_baseline,
+            "total": len(records),
+            "new_count": len(new_items),
+            "updated_count": len(updated_items),
+            "new_records": new_items,
+            "updated_records": updated_items,
+        })
+        with open(os.path.join(ROOT, "NEW_RECORDS.md"), "w", encoding="utf-8") as f:
+            f.write(report)
+        build_records_md(records)
+        update_readme_banner(report, today, len(records), is_baseline, len(new_items), len(updated_items))
+        append_history(today, report)
+    else:
+        print("[skip] 无新增/更新，产物保持不变（避免每10分钟空提交）")
 
     if is_baseline:
         print("[done] 基线建立：收录 %d 条纪录" % len(records))
     else:
-        print("[done] 今日新增 %d / 更新 %d，累计 %d" %
-              (len(new_items), len(updated_items), len(records)))
+        print("[done] 本轮新增 %d / 更新 %d，累计 %d，changed=%s" %
+              (len(new_items), len(updated_items), len(records), changed))
     print("[done] 产物：NEW_RECORDS.md / RECORDS.md / README / data/*.json / history/")
     return 0
 
