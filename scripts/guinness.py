@@ -355,7 +355,7 @@ def main():
         update_readme_banner(report, today, len(records), is_baseline, len(new_items), len(updated_items))
         append_history(today, report)
     else:
-        print("[skip] 无新增/更新，产物保持不变（避免每10分钟空提交）")
+        print("[skip] 无新增/更新，产物保持不变（避免高频空提交）")
 
     if is_baseline:
         print("[done] 基线建立：收录 %d 条纪录" % len(records))
