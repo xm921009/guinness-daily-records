@@ -1,0 +1,42 @@
+name: 每日查询吉尼斯世界纪录
+
+on:
+  schedule:
+    # UTC 00:30 = 北京时间 08:30（GitHub Actions 定时可能有几十分钟延迟）
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guinness-daily-records
+  cancel-in-progress: false
+
+jobs:
+  query:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 抓取官网 sitemap 并生成新增纪录
+        run: python scripts/guinness.py
+
+      - name: 提交当天结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md NEW_RECORDS.md RECORDS.md data/latest.json data/all_records.json data/seen_url.json history/
+          if git diff --staged --quiet; then
+            echo "结果无变化，跳过提交"
+          else
+            git commit -m "daily: 更新吉尼斯纪录 $(date -u +%F)"
+            git push
+          fi
