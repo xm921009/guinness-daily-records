@@ -1,9 +1,9 @@
-name: 每日查询吉尼斯世界纪录
+name: 每10分钟查询吉尼斯世界纪录
 
 on:
   schedule:
-    # UTC 00:30 = 北京时间 08:30（GitHub Actions 定时可能有几十分钟延迟）
-    - cron: '30 0 * * *'
+    # 每 10 分钟执行一次，不间歇（GitHub Actions cron 为 UTC，与北京时间无关）
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -37,6 +37,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "结果无变化，跳过提交"
           else
-            git commit -m "daily: 更新吉尼斯纪录 $(date -u +%F)"
+            git commit -m "daily: 吉尼斯纪录新增/更新 $(date -u +%F) $(date -u +%H:%M)"
             git push
           fi
