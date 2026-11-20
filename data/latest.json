@@ -1,9 +1,43 @@
 {
-  "date_bj": "2026-11-19",
+  "date_bj": "2026-11-20",
   "is_baseline": false,
-  "total": 10754,
-  "new_count": 0,
-  "updated_count": 0,
-  "new_records": [],
-  "updated_records": []
+  "total": 10756,
+  "new_count": 2,
+  "updated_count": 2,
+  "new_records": [
+    {
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/gta-vi-is-finally-out-today-and-its-already-breaking-world-records",
+      "title": "gta vi is finally out today and its already breaking world records",
+      "lastmod": "2026-11-19T11:46:05.7610000Z",
+      "year": 2026,
+      "kind": "news",
+      "first_seen": "2026-11-20"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/speed-painter-celebrates-gwr-day-by-making-statue-of-liberty-portrait-in-under-1-minute",
+      "title": "speed painter celebrates gwr day by making statue of liberty portrait in under 1 minute",
+      "lastmod": "2026-11-18T14:52:04.6950000Z",
+      "year": 2026,
+      "kind": "news",
+      "first_seen": "2026-11-20"
+    }
+  ],
+  "updated_records": [
+    {
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/all-the-action-from-gwr-day-2026-epic-car-stunts-bicycle-backflips-and-more",
+      "title": "all the action from gwr day 2026 epic car stunts bicycle backflips and more",
+      "lastmod": "2026-11-19T10:05:22.0420000Z",
+      "year": 2026,
+      "kind": "news",
+      "prev_lastmod": "2026-11-18T16:56:07.9730000Z"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/news/2026/9/wingless-warrior-calls-on-others-with-no-arms-to-try-and-break-her-record",
+      "title": "wingless warrior calls on others with no arms to try and break her record",
+      "lastmod": "2026-11-19T09:54:26.4140000Z",
+      "year": 2026,
+      "kind": "news",
+      "prev_lastmod": "2026-08-26T16:26:39.6770000Z"
+    }
+  ]
 }

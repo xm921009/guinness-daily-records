@@ -1,11 +1,14 @@
 # 吉尼斯世界纪录 · 大全
 
-> 由官网 sitemap 汇总，每日自动更新。共 10754 条（下表展示最近 2000 条，全量见 data/all_records.json）。
+> 由官网 sitemap 汇总，每日自动更新。共 10756 条（下表展示最近 2000 条，全量见 data/all_records.json）。
 
 | 纪录 / 新闻标题 | 类别 | 年份 | lastmod |
 | --- | --- | --- | --- |
+| [gta vi is finally out today and its already breaking world records](https://www.guinnessworldrecords.com/news/2026/11/gta-vi-is-finally-out-today-and-its-already-breaking-world-records) | news | 2026 | 2026-11-19 |
+| [all the action from gwr day 2026 epic car stunts bicycle backflips and more](https://www.guinnessworldrecords.com/news/2026/11/all-the-action-from-gwr-day-2026-epic-car-stunts-bicycle-backflips-and-more) | news | 2026 | 2026-11-19 |
+| [wingless warrior calls on others with no arms to try and break her record](https://www.guinnessworldrecords.com/news/2026/9/wingless-warrior-calls-on-others-with-no-arms-to-try-and-break-her-record) | news | 2026 | 2026-11-19 |
 | [age is not the problem the elite spanish mountaineer still setting career highs at 86](https://www.guinnessworldrecords.com/news/2026/11/age-is-not-the-problem-the-elite-spanish-mountaineer-still-setting-career-highs-at-86) | news | 2026 | 2026-11-18 |
-| [all the action from gwr day 2026 epic car stunts bicycle backflips and more](https://www.guinnessworldrecords.com/news/2026/11/all-the-action-from-gwr-day-2026-epic-car-stunts-bicycle-backflips-and-more) | news | 2026 | 2026-11-18 |
+| [speed painter celebrates gwr day by making statue of liberty portrait in under 1 minute](https://www.guinnessworldrecords.com/news/2026/11/speed-painter-celebrates-gwr-day-by-making-statue-of-liberty-portrait-in-under-1-minute) | news | 2026 | 2026-11-18 |
 | [9 year old brazilian girl bravely races down 3 storey skateboard ramp to take record](https://www.guinnessworldrecords.com/news/2026/11/9-year-old-brazilian-girl-bravely-races-down-3-storey-skateboard-ramp-to-take-record) | news | 2026 | 2026-11-18 |
 | [world gravy wrestling champion joel hicks spills secrets of his sticky success](https://www.guinnessworldrecords.com/news/2026/11/world-gravy-wrestling-champion-joel-hicks-spills-secrets-of-his-sticky-success) | news | 2026 | 2026-11-17 |
 | [23 year old red panda in japan becomes the worlds oldest](https://www.guinnessworldrecords.com/news/2026/11/23-year-old-red-panda-in-japan-becomes-the-worlds-oldest) | news | 2026 | 2026-11-17 |
@@ -184,7 +187,6 @@
 | [man sent soaring over 92 ft into the sky as epic airbag stunt reclaims blobbing record](https://www.guinnessworldrecords.com/news/2026/8/man-sent-soaring-over-92-ft-into-the-sky-as-epic-airbag-stunt-reclaims-blobbing-record) | news | 2026 | 2026-08-27 |
 | [woman etches her name into record books by squeezing 150 words on to one tiny sticky note](https://www.guinnessworldrecords.com/news/2026/8/woman-etches-her-name-into-record-books-by-squeezing-150-words-on-to-one-tiny-sticky-note) | news | 2026 | 2026-08-27 |
 | [his ears hang high hank the donkeys 1 5 ft long lobes break record for biggest on globe](https://www.guinnessworldrecords.com/news/2026/8/his-ears-hang-high-hank-the-donkeys-1-5-ft-long-lobes-break-record-for-biggest-on-globe) | news | 2026 | 2026-08-27 |
-| [wingless warrior calls on others with no arms to try and break her record](https://www.guinnessworldrecords.com/news/2026/9/wingless-warrior-calls-on-others-with-no-arms-to-try-and-break-her-record) | news | 2026 | 2026-08-26 |
 | [king of cold damian stays under ice water for an hour to claim third endurance record](https://www.guinnessworldrecords.com/news/2026/8/king-of-cold-damian-stays-under-ice-water-for-an-hour-to-claim-third-endurance-record) | news | 2026 | 2026-08-26 |
 | [the first domino that led to skibidi toilet fell 30 years ago this week](https://www.guinnessworldrecords.com/news/2026/8/the-first-domino-that-led-to-skibidi-toilet-fell-30-years-ago-this-week) | news | 2026 | 2026-08-26 |
 | [fitness coach lifts over 630 pounds with her hips to crush female weightlifting record](https://www.guinnessworldrecords.com/news/2026/8/fitness-coach-lifts-over-630-pounds-with-her-hips-to-crush-female-weightlifting-record) | news | 2026 | 2026-08-26 |
@@ -2002,5 +2004,3 @@
 | [man unicycles across ireland in record time each turn of the pedal felt like torture](https://www.guinnessworldrecords.com/news/2024/7/man-unicycles-across-ireland-in-record-time-each-turn-of-the-pedal-felt-like-torture.html) | news | 2024 | 2024-07-16 |
 | [man unicycles across ireland in record time each turn of the pedal felt like torture](https://www.guinnessworldrecords.com/news/2024/7/man-unicycles-across-ireland-in-record-time-each-turn-of-the-pedal-felt-like-torture) | news | 2024 | 2024-07-16 |
 | [nigerian barber smashes record for fastest skin fade haircuts](https://www.guinnessworldrecords.com/news/2024/7/nigerian-barber-smashes-record-for-fastest-skin-fade-haircuts.html) | news | 2024 | 2024-07-12 |
-| [nigerian barber smashes record for fastest skin fade haircuts](https://www.guinnessworldrecords.com/news/2024/7/nigerian-barber-smashes-record-for-fastest-skin-fade-haircuts) | news | 2024 | 2024-07-12 |
-| [legendary turkish sports commentators 61 year career breaks record](https://www.guinnessworldrecords.com/news/2024/7/legendary-turkish-sports-commentators-61-year-career-breaks-record.html) | news | 2024 | 2024-07-11 |

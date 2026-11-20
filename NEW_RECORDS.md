@@ -1,14 +1,16 @@
-# 吉尼斯世界纪录 · 每日新增
+# 吉尼斯世界纪录 · 新增动态
 
-- 数据日期（北京时间）：2026-11-19
+- 检测时间（北京时间）：2026-11-20 10:10:39
 - 数据源：吉尼斯世界纪录官网 sitemap（官方站点公开数据）
-- 今日新增：**0** 条；今日更新：**0** 条
-- 纪录库累计：**10754** 条
+- 本轮新增：**2** 条；本轮更新：**2** 条
+- 纪录库累计：**10756** 条
 
-## 🆕 今日新增纪录
+## 🆕 本轮新增纪录
 
-- 今日官网 sitemap 未发现新 URL
+- [gta vi is finally out today and its already breaking world records](https://www.guinnessworldrecords.com/news/2026/11/gta-vi-is-finally-out-today-and-its-already-breaking-world-records)  `<sub>news · lastmod 2026-11-19</sub>`
+- [speed painter celebrates gwr day by making statue of liberty portrait in under 1 minute](https://www.guinnessworldrecords.com/news/2026/11/speed-painter-celebrates-gwr-day-by-making-statue-of-liberty-portrait-in-under-1-minute)  `<sub>news · lastmod 2026-11-18</sub>`
 
-## 🔄 今日更新纪录
+## 🔄 本轮更新纪录
 
-- 今日无 lastmod 变新的条目
+- [all the action from gwr day 2026 epic car stunts bicycle backflips and more](https://www.guinnessworldrecords.com/news/2026/11/all-the-action-from-gwr-day-2026-epic-car-stunts-bicycle-backflips-and-more)  `<sub>news · lastmod 2026-11-19</sub>`
+- [wingless warrior calls on others with no arms to try and break her record](https://www.guinnessworldrecords.com/news/2026/9/wingless-warrior-calls-on-others-with-no-arms-to-try-and-break-her-record)  `<sub>news · lastmod 2026-11-19</sub>`
