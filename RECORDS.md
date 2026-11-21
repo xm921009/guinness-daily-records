@@ -1,6 +1,6 @@
 # 吉尼斯世界纪录 · 大全
 
-> 由官网 sitemap 汇总，每日自动更新。共 10756 条（下表展示最近 2000 条，全量见 data/all_records.json）。
+> 由官网 sitemap 汇总，每日自动更新。共 10757 条（下表展示最近 2000 条，全量见 data/all_records.json）。
 
 | 纪录 / 新闻标题 | 类别 | 年份 | lastmod |
 | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | [speed painter celebrates gwr day by making statue of liberty portrait in under 1 minute](https://www.guinnessworldrecords.com/news/2026/11/speed-painter-celebrates-gwr-day-by-making-statue-of-liberty-portrait-in-under-1-minute) | news | 2026 | 2026-11-18 |
 | [9 year old brazilian girl bravely races down 3 storey skateboard ramp to take record](https://www.guinnessworldrecords.com/news/2026/11/9-year-old-brazilian-girl-bravely-races-down-3-storey-skateboard-ramp-to-take-record) | news | 2026 | 2026-11-18 |
 | [world gravy wrestling champion joel hicks spills secrets of his sticky success](https://www.guinnessworldrecords.com/news/2026/11/world-gravy-wrestling-champion-joel-hicks-spills-secrets-of-his-sticky-success) | news | 2026 | 2026-11-17 |
+| [stuntman sets himself on fire to fly across zip line longer than a football field](https://www.guinnessworldrecords.com/news/2026/11/stuntman-sets-himself-on-fire-to-fly-across-zip-line-longer-than-a-football-field) | news | 2026 | 2026-11-17 |
 | [23 year old red panda in japan becomes the worlds oldest](https://www.guinnessworldrecords.com/news/2026/11/23-year-old-red-panda-in-japan-becomes-the-worlds-oldest) | news | 2026 | 2026-11-17 |
 | [pikachu fan with record breaking collection explains what pokemon character means to her](https://www.guinnessworldrecords.com/news/2026/11/pikachu-fan-with-record-breaking-collection-explains-what-pokemon-character-means-to-her) | news | 2026 | 2026-11-17 |
 | [red bull launches two athletes out of a human catapult and into record books at 112 mph](https://www.guinnessworldrecords.com/news/2026/11/red-bull-launches-two-athletes-out-of-a-human-catapult-and-into-record-books-at-112-mph) | news | 2026 | 2026-11-16 |
@@ -2003,4 +2004,3 @@
 | [egyptian man visits all 7 wonders of the world in record time](https://www.guinnessworldrecords.com/news/2024/7/egyptian-man-visits-all-7-wonders-of-the-world-in-record-time) | news | 2024 | 2024-07-16 |
 | [man unicycles across ireland in record time each turn of the pedal felt like torture](https://www.guinnessworldrecords.com/news/2024/7/man-unicycles-across-ireland-in-record-time-each-turn-of-the-pedal-felt-like-torture.html) | news | 2024 | 2024-07-16 |
 | [man unicycles across ireland in record time each turn of the pedal felt like torture](https://www.guinnessworldrecords.com/news/2024/7/man-unicycles-across-ireland-in-record-time-each-turn-of-the-pedal-felt-like-torture) | news | 2024 | 2024-07-16 |
-| [nigerian barber smashes record for fastest skin fade haircuts](https://www.guinnessworldrecords.com/news/2024/7/nigerian-barber-smashes-record-for-fastest-skin-fade-haircuts.html) | news | 2024 | 2024-07-12 |
