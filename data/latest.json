@@ -1,35 +1,42 @@
 {
-  "date_bj": "2026-11-25",
+  "date_bj": "2026-11-26",
   "is_baseline": false,
-  "total": 10761,
-  "new_count": 2,
-  "updated_count": 1,
+  "total": 10765,
+  "new_count": 4,
+  "updated_count": 0,
   "new_records": [
     {
-      "url": "https://www.guinnessworldrecords.com/news/2026/11/more-stop-motion-movie-magic-as-laikas-wildwood-takes-title-as-longest-film-in-genre",
-      "title": "more stop motion movie magic as laikas wildwood takes title as longest film in genre",
-      "lastmod": "2026-11-24T13:03:40.7410000Z",
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/when-pigs-fly-and-hippos-disappear-macys-celebrates-a-century-of-thanksgiving",
+      "title": "when pigs fly and hippos disappear macys celebrates a century of thanksgiving",
+      "lastmod": "2026-11-25T23:36:34.7380000Z",
       "year": 2026,
       "kind": "news",
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
     },
     {
-      "url": "https://www.guinnessworldrecords.com/news/2026/11/best-friends-scale-20000-ft-mountain-for-a-record-breaking-game-of-chess",
-      "title": "best friends scale 20000 ft mountain for a record breaking game of chess",
-      "lastmod": "2026-11-18T16:42:33.0720000Z",
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/from-shipwrecks-to-fermented-fish-why-sweden-is-a-record-breaking-museum-hub",
+      "title": "from shipwrecks to fermented fish why sweden is a record breaking museum hub",
+      "lastmod": "2026-11-25T16:56:07.9500000Z",
       "year": 2026,
       "kind": "news",
-      "first_seen": "2026-11-25"
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/it-took-100-years-to-build-the-sagrada-familia-can-you-build-it-in-under-12-hours",
+      "title": "it took 100 years to build the sagrada familia can you build it in under 12 hours",
+      "lastmod": "2026-11-25T15:30:28.8820000Z",
+      "year": 2026,
+      "kind": "news",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/youngster-with-a-passion-for-yoga-breaks-record-with-tricky-backbend-stunt",
+      "title": "youngster with a passion for yoga breaks record with tricky backbend stunt",
+      "lastmod": "2026-11-18T16:38:04.9830000Z",
+      "year": 2026,
+      "kind": "news",
+      "first_seen": "2026-11-26"
     }
   ],
-  "updated_records": [
-    {
-      "url": "https://www.guinnessworldrecords.com/news/2026/11/wwe-legend-natalya-looks-back-on-her-incredible-record-breaking-wrestling-career",
-      "title": "wwe legend natalya looks back on her incredible record breaking wrestling career",
-      "lastmod": "2026-11-24T09:41:32.7940000Z",
-      "year": 2026,
-      "kind": "news",
-      "prev_lastmod": "2026-11-17T17:46:12.2040000Z"
-    }
-  ]
+  "updated_records": []
 }

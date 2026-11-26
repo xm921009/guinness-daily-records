@@ -3,9 +3,9 @@
 一个 GitHub Actions 定时任务：**每 10 分钟**抓取[吉尼斯世界纪录官网](https://www.guinnessworldrecords.com/)公开 sitemap，自动汇总纪录大全，并列出相比上一次**新增 / 更新的纪录**。无实质变化时不产生提交。
 
 <!-- LATEST_START -->
-## 最新状态（2026-11-25）
+## 最新状态（2026-11-26）
 
-- 本轮新增 **2** 条 / 更新 **1** 条，纪录库累计 **10761** 条。
+- 本轮新增 **4** 条 / 更新 **0** 条，纪录库累计 **10765** 条。
 - 详见 [NEW_RECORDS.md](NEW_RECORDS.md) 与 [RECORDS.md](RECORDS.md)。
 <!-- LATEST_END -->
 

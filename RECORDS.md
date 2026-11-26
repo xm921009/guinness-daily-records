@@ -1,9 +1,12 @@
 # 吉尼斯世界纪录 · 大全
 
-> 由官网 sitemap 汇总，每日自动更新。共 10761 条（下表展示最近 2000 条，全量见 data/all_records.json）。
+> 由官网 sitemap 汇总，每日自动更新。共 10765 条（下表展示最近 2000 条，全量见 data/all_records.json）。
 
 | 纪录 / 新闻标题 | 类别 | 年份 | lastmod |
 | --- | --- | --- | --- |
+| [when pigs fly and hippos disappear macys celebrates a century of thanksgiving](https://www.guinnessworldrecords.com/news/2026/11/when-pigs-fly-and-hippos-disappear-macys-celebrates-a-century-of-thanksgiving) | news | 2026 | 2026-11-25 |
+| [from shipwrecks to fermented fish why sweden is a record breaking museum hub](https://www.guinnessworldrecords.com/news/2026/11/from-shipwrecks-to-fermented-fish-why-sweden-is-a-record-breaking-museum-hub) | news | 2026 | 2026-11-25 |
+| [it took 100 years to build the sagrada familia can you build it in under 12 hours](https://www.guinnessworldrecords.com/news/2026/11/it-took-100-years-to-build-the-sagrada-familia-can-you-build-it-in-under-12-hours) | news | 2026 | 2026-11-25 |
 | [more stop motion movie magic as laikas wildwood takes title as longest film in genre](https://www.guinnessworldrecords.com/news/2026/11/more-stop-motion-movie-magic-as-laikas-wildwood-takes-title-as-longest-film-in-genre) | news | 2026 | 2026-11-24 |
 | [wwe legend natalya looks back on her incredible record breaking wrestling career](https://www.guinnessworldrecords.com/news/2026/11/wwe-legend-natalya-looks-back-on-her-incredible-record-breaking-wrestling-career) | news | 2026 | 2026-11-24 |
 | [swedish lifeguard completes epic swim of 190 km canal in honour of her late father](https://www.guinnessworldrecords.com/news/2026/11/swedish-lifeguard-completes-epic-swim-of-190-km-canal-in-honour-of-her-late-father) | news | 2026 | 2026-11-23 |
@@ -12,6 +15,7 @@
 | [wingless warrior calls on others with no arms to try and break her record](https://www.guinnessworldrecords.com/news/2026/9/wingless-warrior-calls-on-others-with-no-arms-to-try-and-break-her-record) | news | 2026 | 2026-11-19 |
 | [age is not the problem the elite spanish mountaineer still setting career highs at 86](https://www.guinnessworldrecords.com/news/2026/11/age-is-not-the-problem-the-elite-spanish-mountaineer-still-setting-career-highs-at-86) | news | 2026 | 2026-11-18 |
 | [best friends scale 20000 ft mountain for a record breaking game of chess](https://www.guinnessworldrecords.com/news/2026/11/best-friends-scale-20000-ft-mountain-for-a-record-breaking-game-of-chess) | news | 2026 | 2026-11-18 |
+| [youngster with a passion for yoga breaks record with tricky backbend stunt](https://www.guinnessworldrecords.com/news/2026/11/youngster-with-a-passion-for-yoga-breaks-record-with-tricky-backbend-stunt) | news | 2026 | 2026-11-18 |
 | [speed painter celebrates gwr day by making statue of liberty portrait in under 1 minute](https://www.guinnessworldrecords.com/news/2026/11/speed-painter-celebrates-gwr-day-by-making-statue-of-liberty-portrait-in-under-1-minute) | news | 2026 | 2026-11-18 |
 | [9 year old brazilian girl bravely races down 3 storey skateboard ramp to take record](https://www.guinnessworldrecords.com/news/2026/11/9-year-old-brazilian-girl-bravely-races-down-3-storey-skateboard-ramp-to-take-record) | news | 2026 | 2026-11-18 |
 | [world gravy wrestling champion joel hicks spills secrets of his sticky success](https://www.guinnessworldrecords.com/news/2026/11/world-gravy-wrestling-champion-joel-hicks-spills-secrets-of-his-sticky-success) | news | 2026 | 2026-11-17 |
@@ -2000,7 +2004,3 @@
 | [94 year old minnesota man verified as worlds oldest bus driver](https://www.guinnessworldrecords.com/news/2024/7/94-year-old-minnesota-man-verified-as-worlds-oldest-bus-driver.html) | news | 2024 | 2024-07-17 |
 | [94 year old minnesota man verified as worlds oldest bus driver](https://www.guinnessworldrecords.com/news/2024/7/94-year-old-minnesota-man-verified-as-worlds-oldest-bus-driver) | news | 2024 | 2024-07-17 |
 | [break a record at the tcs sydney marathon presented by asics 2024](https://www.guinnessworldrecords.com/news/2024/7/break-a-record-at-the-tcs-sydney-marathon-presented-by-asics-2024.html) | news | 2024 | 2024-07-16 |
-| [nigerian mans three day gaming marathon shatters world record](https://www.guinnessworldrecords.com/news/2024/7/nigerian-mans-three-day-gaming-marathon-shatters-world-record.html) | news | 2024 | 2024-07-16 |
-| [nigerian mans three day gaming marathon shatters world record](https://www.guinnessworldrecords.com/news/2024/7/nigerian-mans-three-day-gaming-marathon-shatters-world-record) | news | 2024 | 2024-07-16 |
-| [bastille day la fête nationale 49824](https://www.guinnessworldrecords.com/news/2013/7/bastille-day-la-fête-nationale-49824.html) | news | 2013 | 2024-07-16 |
-| [bastille day la fte nationale 49824](https://www.guinnessworldrecords.com/news/2013/7/bastille-day-la-fte-nationale-49824) | news | 2013 | 2024-07-16 |
