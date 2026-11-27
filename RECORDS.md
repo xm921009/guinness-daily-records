@@ -1,15 +1,16 @@
 # 吉尼斯世界纪录 · 大全
 
-> 由官网 sitemap 汇总，每日自动更新。共 10765 条（下表展示最近 2000 条，全量见 data/all_records.json）。
+> 由官网 sitemap 汇总，每日自动更新。共 10766 条（下表展示最近 2000 条，全量见 data/all_records.json）。
 
 | 纪录 / 新闻标题 | 类别 | 年份 | lastmod |
 | --- | --- | --- | --- |
-| [when pigs fly and hippos disappear macys celebrates a century of thanksgiving](https://www.guinnessworldrecords.com/news/2026/11/when-pigs-fly-and-hippos-disappear-macys-celebrates-a-century-of-thanksgiving) | news | 2026 | 2026-11-25 |
-| [from shipwrecks to fermented fish why sweden is a record breaking museum hub](https://www.guinnessworldrecords.com/news/2026/11/from-shipwrecks-to-fermented-fish-why-sweden-is-a-record-breaking-museum-hub) | news | 2026 | 2026-11-25 |
+| [when pigs fly and hippos disappear macys celebrates a century of thanksgiving](https://www.guinnessworldrecords.com/news/2026/11/when-pigs-fly-and-hippos-disappear-macys-celebrates-a-century-of-thanksgiving) | news | 2026 | 2026-11-26 |
+| [from shipwrecks to fermented fish why sweden is a record breaking museum hub](https://www.guinnessworldrecords.com/news/2026/11/from-shipwrecks-to-fermented-fish-why-sweden-is-a-record-breaking-museum-hub) | news | 2026 | 2026-11-26 |
+| [swedish lifeguard completes epic swim of 190 km canal in honour of her late father](https://www.guinnessworldrecords.com/news/2026/11/swedish-lifeguard-completes-epic-swim-of-190-km-canal-in-honour-of-her-late-father) | news | 2026 | 2026-11-26 |
 | [it took 100 years to build the sagrada familia can you build it in under 12 hours](https://www.guinnessworldrecords.com/news/2026/11/it-took-100-years-to-build-the-sagrada-familia-can-you-build-it-in-under-12-hours) | news | 2026 | 2026-11-25 |
 | [more stop motion movie magic as laikas wildwood takes title as longest film in genre](https://www.guinnessworldrecords.com/news/2026/11/more-stop-motion-movie-magic-as-laikas-wildwood-takes-title-as-longest-film-in-genre) | news | 2026 | 2026-11-24 |
 | [wwe legend natalya looks back on her incredible record breaking wrestling career](https://www.guinnessworldrecords.com/news/2026/11/wwe-legend-natalya-looks-back-on-her-incredible-record-breaking-wrestling-career) | news | 2026 | 2026-11-24 |
-| [swedish lifeguard completes epic swim of 190 km canal in honour of her late father](https://www.guinnessworldrecords.com/news/2026/11/swedish-lifeguard-completes-epic-swim-of-190-km-canal-in-honour-of-her-late-father) | news | 2026 | 2026-11-23 |
+| [special olympics athlete training hard as she vows to break own london marathon record](https://www.guinnessworldrecords.com/news/2026/11/special-olympics-athlete-training-hard-as-she-vows-to-break-own-london-marathon-record) | news | 2026 | 2026-11-19 |
 | [gta vi is finally out today and its already breaking world records](https://www.guinnessworldrecords.com/news/2026/11/gta-vi-is-finally-out-today-and-its-already-breaking-world-records) | news | 2026 | 2026-11-19 |
 | [all the action from gwr day 2026 epic car stunts bicycle backflips and more](https://www.guinnessworldrecords.com/news/2026/11/all-the-action-from-gwr-day-2026-epic-car-stunts-bicycle-backflips-and-more) | news | 2026 | 2026-11-19 |
 | [wingless warrior calls on others with no arms to try and break her record](https://www.guinnessworldrecords.com/news/2026/9/wingless-warrior-calls-on-others-with-no-arms-to-try-and-break-her-record) | news | 2026 | 2026-11-19 |
@@ -2003,4 +2004,3 @@
 | [57 year old runs across africa in record time while avoiding kidnap](https://www.guinnessworldrecords.com/news/2024/7/57-year-old-runs-across-africa-in-record-time-while-avoiding-kidnap) | news | 2024 | 2024-07-18 |
 | [94 year old minnesota man verified as worlds oldest bus driver](https://www.guinnessworldrecords.com/news/2024/7/94-year-old-minnesota-man-verified-as-worlds-oldest-bus-driver.html) | news | 2024 | 2024-07-17 |
 | [94 year old minnesota man verified as worlds oldest bus driver](https://www.guinnessworldrecords.com/news/2024/7/94-year-old-minnesota-man-verified-as-worlds-oldest-bus-driver) | news | 2024 | 2024-07-17 |
-| [break a record at the tcs sydney marathon presented by asics 2024](https://www.guinnessworldrecords.com/news/2024/7/break-a-record-at-the-tcs-sydney-marathon-presented-by-asics-2024.html) | news | 2024 | 2024-07-16 |
