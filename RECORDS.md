@@ -1,15 +1,17 @@
 # 吉尼斯世界纪录 · 大全
 
-> 由官网 sitemap 汇总，每日自动更新。共 10766 条（下表展示最近 2000 条，全量见 data/all_records.json）。
+> 由官网 sitemap 汇总，每日自动更新。共 10768 条（下表展示最近 2000 条，全量见 data/all_records.json）。
 
 | 纪录 / 新闻标题 | 类别 | 年份 | lastmod |
 | --- | --- | --- | --- |
+| [who you gonna call robert oconnor ghostbusters collector wins title with 2300 items](https://www.guinnessworldrecords.com/news/2026/11/who-you-gonna-call-robert-oconnor-ghostbusters-collector-wins-title-with-2300-items) | news | 2026 | 2026-11-27 |
+| [wwe legend natalya looks back on her incredible record breaking wrestling career](https://www.guinnessworldrecords.com/news/2026/11/wwe-legend-natalya-looks-back-on-her-incredible-record-breaking-wrestling-career) | news | 2026 | 2026-11-27 |
 | [when pigs fly and hippos disappear macys celebrates a century of thanksgiving](https://www.guinnessworldrecords.com/news/2026/11/when-pigs-fly-and-hippos-disappear-macys-celebrates-a-century-of-thanksgiving) | news | 2026 | 2026-11-26 |
 | [from shipwrecks to fermented fish why sweden is a record breaking museum hub](https://www.guinnessworldrecords.com/news/2026/11/from-shipwrecks-to-fermented-fish-why-sweden-is-a-record-breaking-museum-hub) | news | 2026 | 2026-11-26 |
 | [swedish lifeguard completes epic swim of 190 km canal in honour of her late father](https://www.guinnessworldrecords.com/news/2026/11/swedish-lifeguard-completes-epic-swim-of-190-km-canal-in-honour-of-her-late-father) | news | 2026 | 2026-11-26 |
 | [it took 100 years to build the sagrada familia can you build it in under 12 hours](https://www.guinnessworldrecords.com/news/2026/11/it-took-100-years-to-build-the-sagrada-familia-can-you-build-it-in-under-12-hours) | news | 2026 | 2026-11-25 |
 | [more stop motion movie magic as laikas wildwood takes title as longest film in genre](https://www.guinnessworldrecords.com/news/2026/11/more-stop-motion-movie-magic-as-laikas-wildwood-takes-title-as-longest-film-in-genre) | news | 2026 | 2026-11-24 |
-| [wwe legend natalya looks back on her incredible record breaking wrestling career](https://www.guinnessworldrecords.com/news/2026/11/wwe-legend-natalya-looks-back-on-her-incredible-record-breaking-wrestling-career) | news | 2026 | 2026-11-24 |
+| [editor craigs wild life at gwr meeting celebs giants and the man who ate a plane](https://www.guinnessworldrecords.com/news/2026/11/editor-craigs-wild-life-at-gwr-meeting-celebs-giants-and-the-man-who-ate-a-plane) | news | 2026 | 2026-11-19 |
 | [special olympics athlete training hard as she vows to break own london marathon record](https://www.guinnessworldrecords.com/news/2026/11/special-olympics-athlete-training-hard-as-she-vows-to-break-own-london-marathon-record) | news | 2026 | 2026-11-19 |
 | [gta vi is finally out today and its already breaking world records](https://www.guinnessworldrecords.com/news/2026/11/gta-vi-is-finally-out-today-and-its-already-breaking-world-records) | news | 2026 | 2026-11-19 |
 | [all the action from gwr day 2026 epic car stunts bicycle backflips and more](https://www.guinnessworldrecords.com/news/2026/11/all-the-action-from-gwr-day-2026-epic-car-stunts-bicycle-backflips-and-more) | news | 2026 | 2026-11-19 |
@@ -2002,5 +2004,3 @@
 | [the fall guy breaks world record with heart stopping blockbuster cannon car roll 767686](https://www.guinnessworldrecords.com/news/commercial/2024/3/the-fall-guy-breaks-world-record-with-heart-stopping-blockbuster-cannon-car-roll-767686.html) | news | 2024 | 2024-07-22 |
 | [57 year old runs across africa in record time while avoiding kidnap](https://www.guinnessworldrecords.com/news/2024/7/57-year-old-runs-across-africa-in-record-time-while-avoiding-kidnap.html) | news | 2024 | 2024-07-18 |
 | [57 year old runs across africa in record time while avoiding kidnap](https://www.guinnessworldrecords.com/news/2024/7/57-year-old-runs-across-africa-in-record-time-while-avoiding-kidnap) | news | 2024 | 2024-07-18 |
-| [94 year old minnesota man verified as worlds oldest bus driver](https://www.guinnessworldrecords.com/news/2024/7/94-year-old-minnesota-man-verified-as-worlds-oldest-bus-driver.html) | news | 2024 | 2024-07-17 |
-| [94 year old minnesota man verified as worlds oldest bus driver](https://www.guinnessworldrecords.com/news/2024/7/94-year-old-minnesota-man-verified-as-worlds-oldest-bus-driver) | news | 2024 | 2024-07-17 |

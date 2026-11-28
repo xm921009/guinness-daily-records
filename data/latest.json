@@ -1,43 +1,35 @@
 {
-  "date_bj": "2026-11-27",
+  "date_bj": "2026-11-28",
   "is_baseline": false,
-  "total": 10766,
-  "new_count": 1,
-  "updated_count": 3,
+  "total": 10768,
+  "new_count": 2,
+  "updated_count": 1,
   "new_records": [
     {
-      "url": "https://www.guinnessworldrecords.com/news/2026/11/special-olympics-athlete-training-hard-as-she-vows-to-break-own-london-marathon-record",
-      "title": "special olympics athlete training hard as she vows to break own london marathon record",
-      "lastmod": "2026-11-19T12:56:36.8630000Z",
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/who-you-gonna-call-robert-oconnor-ghostbusters-collector-wins-title-with-2300-items",
+      "title": "who you gonna call robert oconnor ghostbusters collector wins title with 2300 items",
+      "lastmod": "2026-11-27T14:08:38.4350000Z",
       "year": 2026,
       "kind": "news",
-      "first_seen": "2026-11-27"
+      "first_seen": "2026-11-28"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/editor-craigs-wild-life-at-gwr-meeting-celebs-giants-and-the-man-who-ate-a-plane",
+      "title": "editor craigs wild life at gwr meeting celebs giants and the man who ate a plane",
+      "lastmod": "2026-11-19T15:49:19.8440000Z",
+      "year": 2026,
+      "kind": "news",
+      "first_seen": "2026-11-28"
     }
   ],
   "updated_records": [
     {
-      "url": "https://www.guinnessworldrecords.com/news/2026/11/when-pigs-fly-and-hippos-disappear-macys-celebrates-a-century-of-thanksgiving",
-      "title": "when pigs fly and hippos disappear macys celebrates a century of thanksgiving",
-      "lastmod": "2026-11-26T18:47:50.1940000Z",
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/wwe-legend-natalya-looks-back-on-her-incredible-record-breaking-wrestling-career",
+      "title": "wwe legend natalya looks back on her incredible record breaking wrestling career",
+      "lastmod": "2026-11-27T12:27:40.1390000Z",
       "year": 2026,
       "kind": "news",
-      "prev_lastmod": "2026-11-25T23:36:34.7380000Z"
-    },
-    {
-      "url": "https://www.guinnessworldrecords.com/news/2026/11/from-shipwrecks-to-fermented-fish-why-sweden-is-a-record-breaking-museum-hub",
-      "title": "from shipwrecks to fermented fish why sweden is a record breaking museum hub",
-      "lastmod": "2026-11-26T13:10:51.3540000Z",
-      "year": 2026,
-      "kind": "news",
-      "prev_lastmod": "2026-11-25T16:56:07.9500000Z"
-    },
-    {
-      "url": "https://www.guinnessworldrecords.com/news/2026/11/swedish-lifeguard-completes-epic-swim-of-190-km-canal-in-honour-of-her-late-father",
-      "title": "swedish lifeguard completes epic swim of 190 km canal in honour of her late father",
-      "lastmod": "2026-11-26T12:48:44.6360000Z",
-      "year": 2026,
-      "kind": "news",
-      "prev_lastmod": "2026-11-23T15:23:39.4990000Z"
+      "prev_lastmod": "2026-11-24T09:41:32.7940000Z"
     }
   ]
 }
